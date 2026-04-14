@@ -46,7 +46,7 @@ Features:
 |Durock Clear Screw-In Stabilizers V2 (4+1 w/ 6.25u spacebar)|Stabilizers for the big keys like spacebar     |1       |17.14           |https://stackskb.com/store/durock-clear-screw-in-stabilizers-v2/?attribute_combination=4%2B1+Set&attribute_spacebar-size=6.25U               |StacksKB       |
 |Diode 1N4148 Through - Hole                                  |Diode for 	for the switch matrix!          |1       |1.60            |https://www.amazon.in/gp/product/B084ZP5BJ3                         |Amazon         |
 |Raspberry Pi Pico                                            |main controller for the keyboard!         |1       |5.36            |https://robu.in/product/raspberry-pi-pico-with-headers/          |Robu         |
-|PCB                                                          |pcb for the keyboard!        |5       |9           |https://www.allpcb.com/                                                              |ALLPCB          |
+|PCB                                                          |pcb for the keyboard!        |5       |9.00           |https://www.allpcb.com/                                                              |ALLPCB          |
 |Case                                                         | shipping for the case|1       |5.00            |https://printlegion.hackclub.com/                                                                                 |Printing Legion|
 
 
