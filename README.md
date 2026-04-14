@@ -52,9 +52,10 @@ Features:
 
 ## Shipping
 Amazon + StacksKB = ~$1.5
+
 Printing Legion = ~$5
 
 Total Shipping = $6.5
 
 ## Total Pricing
-The total price comes out to be 7,532 INR ($80.93) with shipping
+The total price comes out to be **7,532 INR ($80.93) with shipping**
