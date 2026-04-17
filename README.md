@@ -41,7 +41,7 @@ Features:
 ## BOM
 |Name                                                         |Purpose                         |Quantity|Total Cost (USD)|Link                                                                             |Distributor    |
 |-------------------------------------------------------------|--------------------------------|--------|----------------|---------------------------------------------------------------------------------|---------------|
-|Akko V5 Creamy Yellow Pro Switch (Pack of 45)                |switches for the keyboard!      |2       |25.77           |https://stackskb.com/store/akko-mirror-switch-pack-of-45-pre-order/              |StacksKB       |
+|Akko V5 Creamy Yellow Pro Switch (Pack of 45)                |switches for the keyboard!      |2       |25.77           |https://stackskb.com/store/akko-v5-creamy-yellow-pro-switch-pack-of-45/              |StacksKB       |
 |Veekos Gradient Keycaps (Cherry Profile) (135 keys) (Blue)   |keycaps for the keyboard's switches!        |1       |13.96           |https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/      |StacksKB       |
 |Durock Clear Screw-In Stabilizers V2 (4+1 w/ 6.25u spacebar)|Stabilizers for the big keys like spacebar     |1       |17.14           |https://stackskb.com/store/durock-clear-screw-in-stabilizers-v2/?attribute_combination=4%2B1+Set&attribute_spacebar-size=6.25U               |StacksKB       |
 |1N4148 Diode (100 Pieces)                                  |Diodes for the switch matrix!          |1       |1.60            |https://www.amazon.in/gp/product/B084ZP5BJ3                         |Amazon         |
