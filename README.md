@@ -59,3 +59,19 @@ Total Shipping = $6.5
 
 ## Total Pricing
 The total price comes out to be **7,532 INR ($80.93) with shipping**
+
+## Build Process
+
+I finally finished making the project did all the soldering and connected everything properly had to be careful with the joints so nothing messes up, after that i assembled the whole thing and checked all the connections tested it and yeah it actually worked which was nice
+
+Overall it turned out good and now i actually get soldering way better than before!
+
+---
+
+## Final Build
+
+![Build1](Images/build1.jpeg)
+
+![Build2](Images/build2.jpeg)
+
+---
